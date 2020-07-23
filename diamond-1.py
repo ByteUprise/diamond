@@ -3,8 +3,8 @@
 #jangan di recode ngentot
 #recode jomblo seumur hidup
 # (MR.K7C8NG) PEMBUAT
-#SUBSCRIBE CHANNEL mrk7c8ng-ices
-#FOLLOW INSTAGRAM @pranata_pasha
+#SUBSCRIBE CHANNEL HackTeachz
+#FOLLOW INSTAGRAM @HackTeachz
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
